@@ -28,9 +28,7 @@ const Sponsors = () =>{
     new Sponsor(
         "Lyft",
         Lyft,
-        `Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Lorem ipsum dolor sit amet consectetur adipisicing elit
-        `,
+        `Lyft can provide transportation to mentors or mentees without reliable rides.`,
         "",
         "4em"
     )
@@ -38,9 +36,7 @@ const Sponsors = () =>{
     new Sponsor(
         "CMS",
         cms,
-        `Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Lorem ipsum dolor sit amet consectetur adipisicing elit
-        `,
+        `CMS is part of our stage 2 partnership to improve the lives in education of future students`,
         "",
         "8em"
     )

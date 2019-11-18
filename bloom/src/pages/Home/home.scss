@@ -109,8 +109,8 @@
                 font-size: 1rem;
                 height: 17em;
                 &-info{
-                    text-align: justify;
-                    font-size: 1.4em;
+                    text-align: center;
+                    font-size: 1.6em;
                 }
             }
         }
@@ -149,6 +149,12 @@
         }
     }
     /* end of hero */
+
+    /* start of Sponsors */
+    #sponsors{
+        
+    }
+    /* end of Sponsors */
 }
 
 @media screen and (min-width: 900px){
@@ -180,10 +186,11 @@
                     height: auto;
                     border-bottom: none;
                     border-right: gray solid 1px;
+                    padding: 5em 3em;
                 }
                 &-info{
                     width: 50%;
-                    font-size: 2em;
+                    font-size: 3em;
                 }
             }
         }
